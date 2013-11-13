@@ -4,5 +4,5 @@ development:
   database: reminder_development
   pool: 5
   username: root
-  password: root
+  password: unix11
   socket: /var/run/mysqld/mysqld.sock

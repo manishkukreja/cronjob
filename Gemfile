@@ -36,6 +36,10 @@ gem 'debugger'
 
 gem 'hirb'
 
+ gem 'execjs' 
+ gem 'therubyracer'
+ gem 'annotate'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
